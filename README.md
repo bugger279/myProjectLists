@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=o3ka5fYysBM
 
 
 https://documenter.getpostman.com/view/7111313/S17xq5VW?version=latest#fd959601-4d9b-8972-b4d4-d1fb67160493
+
+(Updated Document)
+https://documenter.getpostman.com/view/7101675/S17wP6wu?version=latest#28af9ca8-1e2a-ae2c-9ab9-d21401c98bee
